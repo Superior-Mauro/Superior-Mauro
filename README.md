@@ -73,6 +73,7 @@ In the data realm, my background lies in Python, SQL, Power BI, Streamlit, GCP a
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Superior-Mauro&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
+![Top Languages](https://vercel.app)
 </td></tr></table>  
 
 <br/>  
