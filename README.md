@@ -65,18 +65,12 @@ In the data realm, my background lies in Python, SQL, Power BI, Streamlit, GCP a
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Superior-Mauro&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+![Mauro's Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Superior-Mauro&show_icons=true&count_private=true&theme=tokyonight)
 
-</td><td valign="top" width="50%">
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Superior-Mauro&layout=compact&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Superior-Mauro&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-![Top Languages](https://vercel.app)
-</td></tr></table>  
-
-<br/>  
+<br/>
 
 
 
