@@ -59,7 +59,11 @@ In the data realm, my background lies in Python, SQL, Power BI, Streamlit, GCP a
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-</div>  
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" height="50" /></a>
+<a href="https://claude.ai/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude" height="50" /></a>  <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" height="50" /></a>
+  <a href="https://databricks.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/databricks/FF3621" alt="Databricks" height="50" /></a>
+  <a href="https://airflow.apache.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" height="50" /></a>
+</div>
 
 <br/>  
 
