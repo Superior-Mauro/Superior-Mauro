@@ -64,13 +64,24 @@ In the data realm, my background lies in Python, SQL, Power BI, Streamlit, GCP a
 <br/>  
 
 
-## Github Stats  
+## Github Stats
 
-![Mauro's Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Superior-Mauro&show_icons=true&count_private=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Superior-Mauro&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Superior-Mauro&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Superior-Mauro&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</p>
 
-<br/>
+## Resumen Rápido
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Superior-Mauro?label=Seguidores&style=for-the-badge&color=7aa2f7&labelColor=1a1b26" alt="Followers" />
+  <img src="https://img.shields.io/badge/Status-Active%20Coder-bb9af7?style=for-the-badge&labelColor=1a1b26" alt="Status" />
+</p>
+
+
 
 
 
